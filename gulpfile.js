@@ -10,7 +10,6 @@ const autoprefixer = require('autoprefixer');
 const cssnano = require('cssnano');
 const sourcemap = require('gulp-sourcemaps');
 
-
 const paths = {
     scss: 'src/scss/**/*.scss',
     js: 'src/js/**/*.js',
